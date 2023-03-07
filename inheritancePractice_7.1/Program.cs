@@ -7,4 +7,17 @@
             
         }
     }
+
+    // Простой пример наследования классов
+    class BaseClass
+    {
+
+    }
+
+    class InheritedClass : BaseClass 
+    { 
+
+    }
+
+
 }
