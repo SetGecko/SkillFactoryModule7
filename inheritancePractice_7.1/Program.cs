@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            
+            Car car= new HybridCar();
+            car.Move();
+            //sealed - если установлено перед классом - то от него нельзя наследоваться
         }
     }
 
