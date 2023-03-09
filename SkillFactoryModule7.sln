@@ -3,41 +3,43 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritancePractice_7.1", "inheritancePractice_7.1\inheritancePractice_7.1.csproj", "{4AA10AEB-5DAD-4D20-B16F-931ADF2ECED4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inheritancePractice_7.1", "inheritancePractice_7.1\inheritancePractice_7.1.csproj", "{4AA10AEB-5DAD-4D20-B16F-931ADF2ECED4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_7.1.4", "Task_7.1.4\Task_7.1.4.csproj", "{E4CB665B-A548-4514-83B7-019AED45166B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_7.1.4", "Task_7.1.4\Task_7.1.4.csproj", "{E4CB665B-A548-4514-83B7-019AED45166B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_7.1.5", "Task_7.1.5\Task_7.1.5.csproj", "{45B58326-6B5F-4658-8CC3-2B2BA1BE44DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_7.1.5", "Task_7.1.5\Task_7.1.5.csproj", "{45B58326-6B5F-4658-8CC3-2B2BA1BE44DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeywordsThisAndBase_7.1", "KeywordsThisAndBase_7.1\KeywordsThisAndBase_7.1.csproj", "{0FAF0EA3-986B-4D27-A37A-1B58FD40F247}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeywordsThisAndBase_7.1", "KeywordsThisAndBase_7.1\KeywordsThisAndBase_7.1.csproj", "{0FAF0EA3-986B-4D27-A37A-1B58FD40F247}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_7.1.6", "Task_7.1.6\Task_7.1.6.csproj", "{75A06052-40E4-472F-97EC-66F790225A2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_7.1.6", "Task_7.1.6\Task_7.1.6.csproj", "{75A06052-40E4-472F-97EC-66F790225A2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_7.1.7", "Task_7.1.7\Task_7.1.7.csproj", "{3EDA884A-0828-4E39-9668-A0FC6F89B96F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_7.1.7", "Task_7.1.7\Task_7.1.7.csproj", "{3EDA884A-0828-4E39-9668-A0FC6F89B96F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_7.1.10", "Task_7.1.10\Task_7.1.10.csproj", "{BF0A4C7B-DCEE-4278-8E40-A4D70B5711CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_7.1.10", "Task_7.1.10\Task_7.1.10.csproj", "{BF0A4C7B-DCEE-4278-8E40-A4D70B5711CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversion_7.1", "TypeConversion_7.1\TypeConversion_7.1.csproj", "{1E8B7733-FB39-434D-93AA-C902E9D8EA0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeConversion_7.1", "TypeConversion_7.1\TypeConversion_7.1.csproj", "{1E8B7733-FB39-434D-93AA-C902E9D8EA0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism_7.2", "Polymorphism_7.2\Polymorphism_7.2.csproj", "{606901B8-BD73-4E50-BC80-1D590D1DC79E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism_7.2", "Polymorphism_7.2\Polymorphism_7.2.csproj", "{606901B8-BD73-4E50-BC80-1D590D1DC79E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_7.2.3", "Task_7.2.3\Task_7.2.3.csproj", "{5F83DC1B-7F57-4E04-AFFB-DDCD9F81EB75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_7.2.3", "Task_7.2.3\Task_7.2.3.csproj", "{5F83DC1B-7F57-4E04-AFFB-DDCD9F81EB75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverridingProperties_7.2", "OverridingProperties_7.2\OverridingProperties_7.2.csproj", "{F59A74FD-34E7-4B5D-BEF6-0F51F89F416E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverridingProperties_7.2", "OverridingProperties_7.2\OverridingProperties_7.2.csproj", "{F59A74FD-34E7-4B5D-BEF6-0F51F89F416E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_7.2.4", "Task_7.2.4\Task_7.2.4.csproj", "{6125CB1C-8903-4FE1-A386-DC0BC862CAA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_7.2.4", "Task_7.2.4\Task_7.2.4.csproj", "{6125CB1C-8903-4FE1-A386-DC0BC862CAA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_7.2.5", "Task_7.2.5\Task_7.2.5.csproj", "{1E7E6296-25D6-40D8-8D1C-A38901A10643}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_7.2.5", "Task_7.2.5\Task_7.2.5.csproj", "{1E7E6296-25D6-40D8-8D1C-A38901A10643}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HidingMethods_7.2", "HidingMethods_7.2\HidingMethods_7.2.csproj", "{7349F77E-1897-4DA6-BE53-F35B3FDF4736}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HidingMethods_7.2", "HidingMethods_7.2\HidingMethods_7.2.csproj", "{7349F77E-1897-4DA6-BE53-F35B3FDF4736}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_7.2.8", "Task_7.2.8\Task_7.2.8.csproj", "{CE613680-50B8-4E16-B46D-3DAD697139C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_7.2.8", "Task_7.2.8\Task_7.2.8.csproj", "{CE613680-50B8-4E16-B46D-3DAD697139C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_7.2.12", "Task_7.2.12\Task_7.2.12.csproj", "{F3468DFF-C2EC-477F-BC23-F9B094FE4063}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_7.2.12", "Task_7.2.12\Task_7.2.12.csproj", "{F3468DFF-C2EC-477F-BC23-F9B094FE4063}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers_7.2", "Indexers_7.2\Indexers_7.2.csproj", "{9533A471-0717-4D4C-AE70-36375FD6FCCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Indexers_7.2", "Indexers_7.2\Indexers_7.2.csproj", "{9533A471-0717-4D4C-AE70-36375FD6FCCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_7.2.14", "Task_7.2.14\Task_7.2.14.csproj", "{E41E630E-B238-4ADD-9368-38154C5F7083}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_7.2.14", "Task_7.2.14\Task_7.2.14.csproj", "{E41E630E-B238-4ADD-9368-38154C5F7083}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass_7.3", "AbstractClass_7.3\AbstractClass_7.3.csproj", "{24987415-12E7-4A3E-8676-161F72E15784}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{E41E630E-B238-4ADD-9368-38154C5F7083}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E41E630E-B238-4ADD-9368-38154C5F7083}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E41E630E-B238-4ADD-9368-38154C5F7083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24987415-12E7-4A3E-8676-161F72E15784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24987415-12E7-4A3E-8676-161F72E15784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24987415-12E7-4A3E-8676-161F72E15784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24987415-12E7-4A3E-8676-161F72E15784}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
