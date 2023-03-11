@@ -21,7 +21,7 @@
     {
         public T Field;
     }
-    class DerivedClass<T> : BaseClass<T> 
+    class DerivedClass<T> : BaseClass<T>  // можно и от BaseClass<int> - тогда будет в DerivedClass int
     { 
         public T Property { get; set; }
     }
