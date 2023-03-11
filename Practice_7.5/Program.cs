@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(SimpleClass.MinValue);
+            // Console.WriteLine(SimpleClass.MinValue);
+            SimpleClass object1 = new SimpleClass(50);
+            SimpleClass object2 = new SimpleClass(170);
         }
     }
     class SimpleClass

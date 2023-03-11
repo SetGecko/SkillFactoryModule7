@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_7.5", "Practice_7.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_7.5.2", "Task_7.5.2\Task_7.5.2.csproj", "{D6A33699-2EB5-41CE-80AB-2336C5E4AE69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticPropertiesMethodsFields_7.5", "StaticPropertiesMethodsFields_7.5\StaticPropertiesMethodsFields_7.5.csproj", "{2CD7FEC3-666E-4B52-AD2E-E0845F862A05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{D6A33699-2EB5-41CE-80AB-2336C5E4AE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6A33699-2EB5-41CE-80AB-2336C5E4AE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6A33699-2EB5-41CE-80AB-2336C5E4AE69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD7FEC3-666E-4B52-AD2E-E0845F862A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD7FEC3-666E-4B52-AD2E-E0845F862A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD7FEC3-666E-4B52-AD2E-E0845F862A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD7FEC3-666E-4B52-AD2E-E0845F862A05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
