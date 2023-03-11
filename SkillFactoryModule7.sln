@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_7.6.7", "Task_7.6.7\Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LimitationsOfGenerics_7.6", "LimitationsOfGenerics_7.6\LimitationsOfGenerics_7.6.csproj", "{96BB7D8D-D0C2-4B17-AB87-72797CD0F210}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_7.6.9", "Task_7.6.9\Task_7.6.9.csproj", "{E320AB26-95BA-495C-A16E-5CCFB275AAD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{96BB7D8D-D0C2-4B17-AB87-72797CD0F210}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96BB7D8D-D0C2-4B17-AB87-72797CD0F210}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96BB7D8D-D0C2-4B17-AB87-72797CD0F210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E320AB26-95BA-495C-A16E-5CCFB275AAD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E320AB26-95BA-495C-A16E-5CCFB275AAD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E320AB26-95BA-495C-A16E-5CCFB275AAD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E320AB26-95BA-495C-A16E-5CCFB275AAD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
