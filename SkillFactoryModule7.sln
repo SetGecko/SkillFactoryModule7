@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingMultipleGenericParamet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_7.6.6", "Task_7.6.6\Task_7.6.6.csproj", "{5DA4AF2C-99F6-47FE-99E1-7559BA8BC193}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMethods_7.6", "GenericMethods_7.6\GenericMethods_7.6.csproj", "{2271C385-0E91-4FE6-A19A-252001CD2D5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{5DA4AF2C-99F6-47FE-99E1-7559BA8BC193}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DA4AF2C-99F6-47FE-99E1-7559BA8BC193}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DA4AF2C-99F6-47FE-99E1-7559BA8BC193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2271C385-0E91-4FE6-A19A-252001CD2D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2271C385-0E91-4FE6-A19A-252001CD2D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2271C385-0E91-4FE6-A19A-252001CD2D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2271C385-0E91-4FE6-A19A-252001CD2D5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
